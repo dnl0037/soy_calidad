@@ -19,7 +19,7 @@ en un inventario. Utiliza una arquitectura modular con separación clara entre f
 
     ```bash
     git clone https://github.com/dnl0037/soy_calidad.git
-    cd product-management-app
+    cd product-management-app  # Al directorio donde hayas hecho la clonación
     ```
 
 2. (Opcional) Crea un entorno virtual para la aplicación:
